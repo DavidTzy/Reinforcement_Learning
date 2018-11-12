@@ -1,4 +1,4 @@
-# hello_world
+# Remark
 File MDP contains code for Value Iteration, Policy Iteration and Modified Policy Iteration
 
 File RL contains code for Q-learning
